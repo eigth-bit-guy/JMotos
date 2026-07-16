@@ -104,7 +104,7 @@ document.querySelectorAll(".card").forEach(card=>{
 /* ===========================
    PARALLAX HERO
 =========================== */
-p
+
 const hero = document.querySelector(".hero");
 window.addEventListener("scroll",()=>{
     hero.style.backgroundPositionY =
